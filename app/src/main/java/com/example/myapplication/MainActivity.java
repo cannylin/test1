@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.v(  "TAG" ,"TAG");
         Log.i("TAG","");
-        Log.v(  "TAG" ,"TAG");
+
     }
 
     //public static void main(String[] args) {
